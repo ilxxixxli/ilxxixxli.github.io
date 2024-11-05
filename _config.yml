@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Yeji Lee"
-  avatar           : "/assets/images/bio-photo.jpg"
+  avatar           : 
   bio              : "The Starlight, Eternal Night Walk."
   location         : "Eternaljourney, Busan"
   email            :
