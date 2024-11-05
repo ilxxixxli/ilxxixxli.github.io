@@ -1,7 +1,6 @@
-
 ---
 layout : post
-title :  "2024.10.24 is the first day of the Matrixity."
+title : "2024.10.24 is the first day of the Matrixity."
 ---
 
 
