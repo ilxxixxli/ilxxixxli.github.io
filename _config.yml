@@ -117,11 +117,11 @@ author:
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : "The starlight, eternal saunter in the night."
   location         : "Eternaljourney, Busan"
-  email            : yeji@matrixity.io
+  email            : "yeji@matrixity.io"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:yeji@matrixity.io"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
