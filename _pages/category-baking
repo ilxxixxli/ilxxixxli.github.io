@@ -1,9 +1,0 @@
----
-title: "Baking"
-layout: archive
-permalink: /baking
----
-
-
-{% assign posts = site.categories.baking %}
-{% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}
