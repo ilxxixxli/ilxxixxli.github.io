@@ -1,4 +1,8 @@
-# Keras : Chapter 2
+---
+---
+title : Matrixity
+catrgories:
+  - Keras&tensorflow
 ---
 
 
