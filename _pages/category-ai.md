@@ -1,5 +1,5 @@
 ---
-title: "Artificial-Inteligence"
+title: "Artificial Inteligence"
 layout: archive
 permalink: /ai
 ---
