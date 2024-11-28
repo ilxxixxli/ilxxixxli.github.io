@@ -14,3 +14,12 @@ main:
   #   url: /sitemap/
   # - title: "Sitemap"
   #   url: /sitemap/
+sidebar-category:
+  - title: "Matrixity"
+    url: "/matrixity"
+  - title: "Recyclub"
+    url: "/recyclub"
+  - title: "Artificial Intelligent"
+    url: "/artificial-intelligent"
+  - title: "Keras&Tensorflow"
+    url: "/Keras&Tensorflow"
