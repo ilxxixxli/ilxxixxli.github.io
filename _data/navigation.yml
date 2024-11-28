@@ -7,7 +7,7 @@ main:
   # - title: "Recyclub"
   #   url: /recyclub/
   # - title: "Artificial Intelligent"
-  #   url: /artificial-intelligent/
+  #   url: /ai/
   # - title: "Keras&Tensorflow"
   #   url: /Keras&Tensorflow/
   # - title: "Sitemap"
@@ -20,6 +20,4 @@ sidebar-category:
   - title: "Recyclub"
     url: "/recyclub"
   - title: "Artificial Intelligent"
-    url: "/artificial-intelligent"
-  - title: "Keras&Tensorflow"
-    url: "/Keras&Tensorflow"
+    url: "/ai"
